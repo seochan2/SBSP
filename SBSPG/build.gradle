@@ -29,6 +29,8 @@ configurations {
 dependencies {
 	compile('org.springframework.boot:spring-boot-starter-security')
 	compile('org.springframework.boot:spring-boot-starter-web')
-	providedRuntime('org.springframework.boot:spring-boot-starter-tomcat')
+	
+	compile('javax.servlet:jstl:1.2')
+	
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }

@@ -9,4 +9,5 @@ public class SbspgApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SbspgApplication.class, args);
 	}
+
 }
