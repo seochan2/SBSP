@@ -1,4 +1,4 @@
-package com.seochan2.sbspg.common;
+package com.seochan2.sbspg.common.ui;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
